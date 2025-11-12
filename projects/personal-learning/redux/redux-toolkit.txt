@@ -1,0 +1,4 @@
+store - single source of truth
+reducers 
+useSelector - select value from store
+useDispatch - dispatch a function

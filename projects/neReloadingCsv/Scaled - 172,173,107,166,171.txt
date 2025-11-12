@@ -1,0 +1,99 @@
+Scaled - 172,173,107,166,171
+Related products - 178
+Hollow/soft - 128, 155,171
+Catergories not sync - 160
+issue - 161
+
+not a sku - berrys-38-caliber-158-grain-round-nose500-count - 103 
+scaled - 107 - cal160138ca158jsp250zo
+
+Aldrn38specialnickel500 - related category issue
+303britishOF100 - still scaling issue
+CAL160138cal110jhpbulk250 - same scaling
+CAL160138cal110jhpbulk250 - scaling
+
+---------------------------------------------------------------------------------------------
+Meta keywords are skipped
+556sspsHornady250 - sku is not referring to any product In wp but there is one in magento
+11 - weird sku not fetching unique
+
+
+
+
+CAL160138cal110jhpbulk250 - scaling issue
+303britishOF100 - 1-1.jpg issue in image 
+cal160138ca158jsp250zo - 1-1.jpg issue in image
+berrys-38-caliber-158-grain-round-nose500-count - cannot find a unique product in live site
+
+-----------------------------------------------------------------------------------------------
+8-10-2025
+
+Previous issues:
+CAL160138cal110jhpbulk250 - scaling issue
+303britishOF100 - 1-1.jpg issue in image 
+cal160138ca158jsp250zo - 1-1.jpg issue in image
+berrys-38-caliber-158-grain-round-nose500-count - cannot find a unique product in live site
+
+New issues:
+9MM/357Sig124HBFP2504013050 - Cannot find a unique product corresponding to this sku
+WB308P180X - no corresponding product in wp but is present in live
+eagleshot#9 - meta description is empty but still showing in comparison sheet
+8654 - related categories 
+
+
+
+Note:
+eagleshot#6 and similar skus are giving multiple products but no issues
+---------------------------------------------------------------------------------------------
+
+**we have added the staging url of those products which are drafts
+11 sku cant change to 0011
+223/556bulk62fmjbt250/287293 - cannot find a unique product In live corresponding to this sku
+
+
+
+
+--------------------------------------------------------------------------------------------
+ISSUES FROM 1-350
+11 - sku cant change to 0011
+berrys-38-caliber-158-grain-round-nose500-count - cannot find a unique product in live site
+cal160138ca158jsp250zo - image scaling
+PSDR223datered - image scaling
+9mmPSDPdatered - image scaling
+223/556bulk62fmjbt250/287293 - cannot find a unique product in live corresponding to this
+WB243SP80X, 020892633667 - no product associated to this sku
+
+------------------------------------------------------------------------------------
+
+9mmaccu125rn - cannot find the product using the slug on live
+	
+
+--------------------------------------------------------------------------------------
+eetgss - meta description cannot edit
+20260012 - related categories issue because of WB243SP80X, 020892633667
+
+
+
+test - 44-40200RNFP100
+OF300H&H100 - meta description empty on live and cannot be edited in wp
+OF35whelen100-11 - meta description empty on live and cannot be edited in wp
+OF7mmmauser25 -  meta description empty on live and cannot be edited in wp
+22250remington100nickel91 - SEO issue
+3006SSPSbarnes - SEO issue
+WB243SP80X, 020892633667 - description wrong sku,  check for image
+WB308P180X - this sku was causing issue in the related products, is available on the site as well, but not in the google sheet
+
+
+
+1. 3050M130CAL110RN401 - This product is not present in Magento backend but is present in the google sheet
+2. SEO issue - even after editing/removing the meta description and meta title, it is not being reflected in the comparison sheet.
+3. Image issues - while trying to remove the automatically added "scaled" in the suffix of image url, we are unable to completely match the urls.
+4. In google sheet we have a sku "11" which should have been "0011".
+5. For "0011" sku we have empty category in magento backend.
+
+
+
+
+
+
+
